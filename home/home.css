@@ -1,0 +1,84 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", Arial, sans-serif;
+    font-weight: 300; /* para paragrafos */
+}
+
+h2 {
+    font-weight: 800;
+}
+
+body {
+    background: #f4f4f4;
+}
+
+/* purpleBG */
+.purpleBG {
+    background: linear-gradient(#000000, #723A88);
+    color: white;
+    text-align: center;
+    padding: 30px 20px;
+}
+
+.purpleBG img {
+    width: 120px;
+    margin-bottom: 15px;
+}
+
+.purpleBG h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-weight: 1000;
+}
+
+.purpleBG p {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+    /* COMO JOGAR */
+.comoJogar {
+    padding: 25px 20px;
+    background: white;
+    margin-top: 10px;
+}
+
+.comoJogar h2 {
+    color: #6a3d8f;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.comoJogar p {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+ul {
+    padding-left: 18px;
+    font-size: 14px;
+}
+
+ul li {
+    margin-bottom: 6px;
+}
+
+.tree {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.tree img {
+    width: 120px;
+}
+
+    /* FOOTER */
+footer {
+    padding: 15px 20px;
+    font-size: 12px;
+    text-align: center;
+    color: #555;
+}
